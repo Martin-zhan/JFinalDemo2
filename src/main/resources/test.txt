@@ -1,0 +1,2 @@
+userBaseViewPath=/WEB-INF/pages/views/user
+port=8888
